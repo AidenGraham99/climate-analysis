@@ -1,3 +1,4 @@
+""" Doc String Shenanigans"""
 import sys
 import temp_conversion
 import signal
